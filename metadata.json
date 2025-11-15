@@ -1,0 +1,5 @@
+{
+  "name": "TTSProX",
+  "description": "A powerful Text-to-Speech (TTS) tool that converts text into natural, realistic AI-generated voices using the Gemini API. Features multiple voice options, accents, emotional tones, and audio customizations.",
+  "requestFramePermissions": []
+}
